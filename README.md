@@ -1,3 +1,4 @@
+Hi there!!!
 - 🔭 I’m currently working as Frontend Engineer.
 - 🌱 I’m currently learning React.js and Golang.
 - 📫 How to reach me: @CoO2san on Twitter
